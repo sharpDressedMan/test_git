@@ -1,5 +1,5 @@
 # test_git
 int main(){
-	print("Hello");
+	print("Hello. It is dev branch.");
 	return 0;
 }
