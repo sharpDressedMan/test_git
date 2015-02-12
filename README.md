@@ -4,6 +4,6 @@ int main(){
 	return 0;
 }
 
-void master(){
-
+void master(int input){
+	print(input);
 }
