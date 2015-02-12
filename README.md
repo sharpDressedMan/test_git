@@ -8,6 +8,6 @@ void master(int input){
 	print(input);
 }
 
-void branch_dev(){
+void branch_dev(int input){
 	;
 }
