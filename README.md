@@ -11,3 +11,7 @@ void master(int input){
 void branch_dev(int input){
 	;
 }
+
+void dev_2(){
+
+}
