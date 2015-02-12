@@ -7,3 +7,7 @@ int main(){
 void master(){
 
 }
+
+void dev_2(){
+
+}
