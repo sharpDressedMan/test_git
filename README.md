@@ -4,6 +4,10 @@ int main(){
 	return 0;
 }
 
+
 void branch_dev(){
 	;
+}
+void master(){
+
 }
